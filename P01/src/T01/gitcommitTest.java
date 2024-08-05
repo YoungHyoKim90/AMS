@@ -5,5 +5,7 @@ public class gitcommitTest {
 		System.out.println("git commit AMS P01");
 		System.out.println("git commit AMS P01");
 		System.out.println("git commit AMS P01");
+		System.out.println("git commit AMS P01");
+		System.out.println("git commit AMS P01");
 	}
 }
