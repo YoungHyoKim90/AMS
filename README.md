@@ -6,3 +6,6 @@
 "The appropriate AMS repository for Ampersand2 folders and git is created and managed solely for study and practice."
 
 "It will be created, modified, deleted, or inquired at any time, and the code is for practice, so we don't require copyright or anything else."
+
+
+
