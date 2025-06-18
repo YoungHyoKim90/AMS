@@ -11,6 +11,3 @@
 
 "It will be created, modified, deleted, or inquired at any time, and the code is for practice, so we don't require copyright or anything else."
 
-
-
-
